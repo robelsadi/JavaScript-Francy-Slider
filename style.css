@@ -54,6 +54,12 @@ img {
 .main {
   display: none;
 }
+
+.custom{
+    font-weight: bold;
+    color: chocolate;
+    padding: 20px 5px;
+}
 /* Media Query */
 @media (max-width: 767px) {
   .justify-content-around.align-items-center.mt-3.gallery-header.mb-2 {
