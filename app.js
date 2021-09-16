@@ -122,7 +122,7 @@ sliderBtn.addEventListener('click', function () {
   createSlider()
 })
 
-// search using enter button
+// Search using Enter Button.
 const searchButton = document.getElementById("search-btn");
 const searchField = document.getElementById("search");
 
